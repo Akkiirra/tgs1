@@ -1,0 +1,88 @@
+
+ .header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  .judul{
+    margin: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .par1{
+    background-color: yellow;
+    color: black;
+    font-size: 19px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px 15px 30px 15px;
+    text-align: justify;
+  }
+
+  .par2{
+    background-color: yellow;
+    color: black;
+    font-size: 19px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px 15px 30px 15px;
+    text-align: justify;
+  }
+
+  .par3{
+    background-color: yellow;
+    color: black;
+    font-size: 19px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px 15px 30px 15px;
+    text-align: justify;
+  }
+
+  .par4{
+    background-color: yellow;
+    color: black;
+    font-size: 19px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px 15px 30px 15px;
+    text-align: justify;
+  }
+  
+  .gambar{
+    display: flex;
+  }
+
+  .gambar1{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+  }
+ .gambar2{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+}
+
+ .gambar3{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+}
+
+ .gambar4{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+ }
+
+ .footer{
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+  }
+  
+  .container{
+    color: rgb(19, 12, 26);
+    margin: 100px;
+  }
